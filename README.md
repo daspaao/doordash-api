@@ -6,16 +6,16 @@ this is fddg
 ## How to setup the project in local machine
 
 ## Feature
-[x] Create Account
+- [x] Create Account
   - Customer
   - Dasher
   - Merchant
- [ ] Authentication 
+ - [ ] Authentication 
   - login
   - logout
 
-[ ] Restaurant
+- [ ] Restaurant
   - create
   - edit
   - delete
-  
+
