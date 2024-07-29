@@ -6,7 +6,7 @@ this is fddg
 ## How to setup the project in local machine
 
 ## Feature
-- [x] Create Account
+- [ ] Create Account
   - Customer
   - Dasher
   - Merchant
