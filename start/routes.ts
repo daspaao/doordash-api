@@ -18,8 +18,12 @@
 |
 */
 
-import Route from '@ioc:Adonis/Core/Route'
+import Route from "@ioc:Adonis/Core/Route";
 
-Route.get('/', async () => {
-  return { hello: 'world' }
-})
+Route.get("/", async () => {
+  return { message: "DoorDash API v1" };
+});
+
+Route.post("users", "UsersController.store");
+
+Route.post("login", "UsersController.login");
